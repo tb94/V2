@@ -4,7 +4,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 5
+Sheet 2 4
 Title ""
 Date ""
 Rev ""
@@ -514,10 +514,4 @@ Text HLabel 4750 2500 0    50   Input ~ 0
 SCL
 Text HLabel 5100 2400 0    50   Input ~ 0
 SDA
-$Sheet
-S 8300 1700 1750 3750
-U 5E3DC835
-F0 "RGB_Matrix" 50
-F1 "RGB_Matrix.sch" 50
-$EndSheet
 $EndSCHEMATC

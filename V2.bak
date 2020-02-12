@@ -4,7 +4,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 1 5
+Sheet 1 4
 Title ""
 Date ""
 Rev ""
@@ -467,4 +467,15 @@ Text Label 12100 6400 2    50   ~ 0
 row4
 Text Label 12100 6550 2    50   ~ 0
 row5
+$Comp
+L Device:LED_ARGB D1
+U 1 1 5E3DCE26
+P 2950 2000
+F 0 "D1" H 2950 2497 50  0000 C CNN
+F 1 "LED_ARGB" H 2950 2406 50  0000 C CNN
+F 2 "LED_SMD:LED_RGB_1210" H 2950 1950 50  0001 C CNN
+F 3 "~" H 2950 1950 50  0001 C CNN
+	1    2950 2000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
